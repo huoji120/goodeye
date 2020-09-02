@@ -1,0 +1,366 @@
+00000001	6:10:42 AM	[GoodEye]Installed ImageNotifyRoutine... 0xFFFFF8007ADF1260	
+00000002	6:10:50 AM	[GoodEye]> ============= Driver \Device\HarddiskVolume2\Program Files (x86)\Common Files\BattlEye\BEDaisy.sys ================	
+00000003	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: _stricmp is 0xFFFFF8007BF9E700	
+00000004	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: _strnicmp is 0xFFFFF8007BF9E7B0	
+00000005	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: wcsncmp is 0xFFFFF8007BFA0C00	
+00000006	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: _wcsnicmp is 0xFFFFF8007BF9EDF0	
+00000007	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: wcsncat is 0xFFFFF8007BFA0BB0	
+00000008	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: wcsstr is 0xFFFFF8007BFA0D50	
+00000009	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: _wcsicmp is 0xFFFFF8007BF9ECB0	
+00000010	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: _wcslwr is 0xFFFFF8007BF9ED10	
+00000011	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlInitAnsiString is 0xFFFFF8007BED57A0	
+00000012	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlInitUnicodeString is 0xFFFFF8007BEA6560	
+00000013	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlAnsiStringToUnicodeString is 0xFFFFF8007C4DCB50	
+00000014	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlUnicodeStringToAnsiString is 0xFFFFF8007C41FFC0	
+00000015	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlFreeUnicodeString is 0xFFFFF8007C424760	
+00000016	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlFreeAnsiString is 0xFFFFF8007C424760	
+00000017	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlGetVersion is 0xFFFFF8007C4ACD40	
+00000018	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeInitializeEvent is 0xFFFFF8007BE98F10	
+00000019	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeSetEvent is 0xFFFFF8007BEB03C0	
+00000020	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeInitializeMutex is 0xFFFFF8007BE06450	
+00000021	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeReleaseMutex is 0xFFFFF8007BEB4690	
+00000022	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeWaitForSingleObject is 0xFFFFF8007BEA2A60	
+00000023	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ExAllocatePoolWithTag is 0xFFFFF8007C16F010	
+00000024	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ExAllocatePool is 0xFFFFF8007BF25F40	
+00000025	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ExFreePoolWithTag is 0xFFFFF8007C16F0A0	
+00000026	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ProbeForRead is 0xFFFFF8007C4922D0	
+00000027	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ProbeForWrite is 0xFFFFF8007C405C30	
+00000028	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsCreateSystemThread is 0xFFFFF8007C3B7E00	
+00000029	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsTerminateSystemThread is 0xFFFFF8007C48DDA0	
+00000030	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IofCompleteRequest is 0xFFFFF8007BEAF560	
+00000031	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoCreateDevice is 0xFFFFF8007C474B50	
+00000032	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoCreateSymbolicLink is 0xFFFFF8007C51AD00	
+00000033	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoDeleteDevice is 0xFFFFF8007BEE0F20	
+00000034	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoDeleteSymbolicLink is 0xFFFFF8007C53A2E0	
+00000035	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoGetCurrentProcess is 0xFFFFF8007BE92220	
+00000036	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoGetTopLevelIrp is 0xFFFFF8007BE95540	
+00000037	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObReferenceObjectByHandle is 0xFFFFF8007C40F8B0	
+00000038	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObfReferenceObject is 0xFFFFF8007BEA1030	
+00000039	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObfDereferenceObject is 0xFFFFF8007BEA0F60	
+00000040	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObRegisterCallbacks is 0xFFFFF8007C580FF0	
+00000041	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObUnRegisterCallbacks is 0xFFFFF8007C6A0F00	
+00000042	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObGetFilterVersion is 0xFFFFF8007C6A0EF0	
+00000043	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwOpenFile is 0xFFFFF8007BFBEFB0	
+00000044	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwQueryInformationFile is 0xFFFFF8007BFBEB70	
+00000045	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwReadFile is 0xFFFFF8007BFBEA10	
+00000046	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwClose is 0xFFFFF8007BFBEB30	
+00000047	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmIsAddressValid is 0xFFFFF8007C0C57D0	
+00000048	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsSetCreateProcessNotifyRoutineEx is 0xFFFFF8007C5533D0	
+00000049	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsSetCreateThreadNotifyRoutine is 0xFFFFF8007C5533F0	
+00000050	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsRemoveCreateThreadNotifyRoutine is 0xFFFFF8007C6CCC70	
+00000051	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsSetLoadImageNotifyRoutine is 0xFFFFF8007C553410	
+00000052	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsRemoveLoadImageNotifyRoutine is 0xFFFFF8007C6CCD60	
+00000053	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetCurrentProcessId is 0xFFFFF8007BEE0F00	
+00000054	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetCurrentThreadId is 0xFFFFF8007BF06380	
+00000055	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessId is 0xFFFFF8007BE927A0	
+00000056	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetThreadId is 0xFFFFF8007BF0BEC0	
+00000057	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetThreadProcessId is 0xFFFFF8007BF11A70	
+00000058	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwDeviceIoControlFile is 0xFFFFF8007BFBEA30	
+00000059	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlRandomEx is 0xFFFFF8007BED44A0	
+00000060	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsLookupProcessByProcessId is 0xFFFFF8007C3F0630	
+00000061	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsLookupThreadByThreadId is 0xFFFFF8007C3F08C0	
+00000062	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetThreadProcess is 0xFFFFF8007BE1B010	
+00000063	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoQueryFileDosDeviceName is 0xFFFFF8007C4C7BE0	
+00000064	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObOpenObjectByPointer is 0xFFFFF8007C3FF420	
+00000065	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObQueryNameString is 0xFFFFF8007C4C7BC0	
+00000066	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwOpenDirectoryObject is 0xFFFFF8007BFBF450	
+00000067	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessImageFileName is 0xFFFFF8007BF16680	
+00000068	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessInheritedFromUniqueProcessId is 0xFFFFF8007BE19E30	
+00000069	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwQueryInformationThread is 0xFFFFF8007BFBEDF0	
+00000070	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwQuerySystemInformation is 0xFFFFF8007BFBF010	
+00000071	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsAcquireProcessExitSynchronization is 0xFFFFF8007C4D8DC0	
+00000072	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsReleaseProcessExitSynchronization is 0xFFFFF8007C49FF60	
+00000073	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ExfUnblockPushLock is 0xFFFFF8007BFBE570	
+00000074	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ExEnumHandleTable is 0xFFFFF8007C488ED0	
+00000075	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwQueryDirectoryObject is 0xFFFFF8007BFC10F0	
+00000076	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObOpenObjectByName is 0xFFFFF8007C4133E0	
+00000077	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: CmUnRegisterCallback is 0xFFFFF8007C627D50	
+00000078	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmProbeAndLockPages is 0xFFFFF8007BEBCA90	
+00000079	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmUnlockPages is 0xFFFFF8007BEB3030	
+00000080	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoAllocateMdl is 0xFFFFF8007BE99330	
+00000081	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoFreeMdl is 0xFFFFF8007BEEFB20	
+00000082	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObReferenceObjectByName is 0xFFFFF8007C3F44A0	
+00000083	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwOpenSection is 0xFFFFF8007BFBF030	
+00000084	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeStackAttachProcess is 0xFFFFF8007BE920E0	
+00000085	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeUnstackDetachProcess is 0xFFFFF8007BE9D3B0	
+00000086	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessPeb is 0xFFFFF8007BF138F0	
+00000087	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessWow64Process is 0xFFFFF8007BEF8FD0	
+00000088	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlWalkFrameChain is 0xFFFFF8007BE09DC0	
+00000089	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeInitializeApc is 0xFFFFF8007BEC7A50	
+00000090	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeInsertQueueApc is 0xFFFFF8007BEC5F50	
+00000091	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwTerminateProcess is 0xFFFFF8007BFBEED0	
+00000092	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmUnmapViewOfSection is 0xFFFFF8007C3CE0D0	
+00000093	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsSuspendProcess is 0xFFFFF8007C6CD140	
+00000094	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsResumeProcess is 0xFFFFF8007C4A00D0	
+00000095	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwCreateSection is 0xFFFFF8007BFBF290	
+00000096	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwMapViewOfSection is 0xFFFFF8007BFBEE50	
+00000097	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwUnmapViewOfSection is 0xFFFFF8007BFBEE90	
+00000098	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoThreadToProcess is 0xFFFFF8007BE1B010	
+00000099	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwAllocateVirtualMemory is 0xFFFFF8007BFBEC50	
+00000100	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwFreeVirtualMemory is 0xFFFFF8007BFBED10	
+00000101	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetContextThread is 0xFFFFF8007C6CBF30	
+00000102	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmCopyVirtualMemory is 0xFFFFF8007C419850	
+00000103	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwOpenThread is 0xFFFFF8007BFC0E70	
+00000104	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmMapIoSpace is 0xFFFFF8007BF051E0	
+00000105	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmUnmapIoSpace is 0xFFFFF8007BF03BE0	
+00000106	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmGetPhysicalAddress is 0xFFFFF8007BF10580	
+00000107	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: KeDelayExecutionThread is 0xFFFFF8007BE9DE80	
+00000108	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlCompareUnicodeString is 0xFFFFF8007C41FE90	
+00000109	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsGetProcessSessionId is 0xFFFFF8007BED04D0	
+00000110	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: MmCopyMemory is 0xFFFFF8007BF2A060	
+00000111	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ZwTraceControl is 0xFFFFF8007BFC20F0	
+00000112	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: RtlImageNtHeader is 0xFFFFF8007BE88E20	
+00000113	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoFileObjectType is 0xFFFFF8007C3743C8	
+00000114	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsProcessType is 0xFFFFF8007C374390	
+00000115	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsThreadType is 0xFFFFF8007C3743B8	
+00000116	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: PsInitialSystemProcess is 0xFFFFF8007C3743A0	
+00000117	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: IoDriverObjectType is 0xFFFFF8007C374518	
+00000118	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: NtBuildNumber is 0xFFFFF8007C196238	
+00000127	6:10:50 AM	[GoodEye]MmGetSystemRoutineAddress: ObGetObjectType is 0xFFFFF8007C3DE960	
+00000128	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: MmIsAddressValid is 0xFFFFF8007C0C57D0	
+00000129	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: ZwQuerySystemInformation is 0xFFFFF8007BFBF010	
+00000130	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: NtQuerySystemInformation is 0xFFFFF8007C3FFDE0	
+00000131	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: ZwClose is 0xFFFFF8007BFBEB30	
+00000132	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: ZwClose is 0xFFFFF8007BFBEB30	
+00000133	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: ZwClose is 0xFFFFF8007BFBEB30	
+00000134	6:10:54 AM	[GoodEye]MmGetSystemRoutineAddress: ZwClose is 0xFFFFF8007BFBEB30	
+
+//
+// file system imports
+//
+
+[GoodEye]FltGetRoutineAddress: FltRegisterFilter, 0xFFFFF8007FB5B590
+[GoodEye]FltGetRoutineAddress: FltUnregisterFilter, 0xFFFFF8007FB5D0E0
+[GoodEye]FltGetRoutineAddress: FltStartFiltering, 0xFFFFF8007FB5CE00
+[GoodEye]FltGetRoutineAddress: FltGetFileNameInformation, 0xFFFFF8007FB18190
+[GoodEye]FltGetRoutineAddress: FltReleaseFileNameInformation, 0xFFFFF8007FB4EC80
+[GoodEye]FltGetRoutineAddress: FltReadFile, 0xFFFFF8007FB28100
+[GoodEye]FltGetRoutineAddress: FltQueryInformationFile, 0xFFFFF8007FB4C3B0
+[GoodEye]FltGetRoutineAddress: FltGetRequestorProcess, 0xFFFFF8007FB1C0E0
+
+
+//
+// loaded drivers at the time of dump (windows 10 2004)
+//
+
+win32k.sys, 0xffff84384c090000, 560 kB, Full/Desktop Multi-User Win32 Driver
+win32kfull.sys, 0xffff84384c2c0000, 3.63 MB, Full/Desktop Win32k Kernel Driver
+win32kbase.sys, 0xffff84384ca50000, 2.65 MB, Base Win32k Kernel Driver
+cdd.dll, 0xffff84384cd00000, 288 kB, Canonical Display Driver
+peauth.sys, 0xfffff8007a600000, 856 kB, Protected Environment Authentication and Authorization Export Driver
+srv2.sys, 0xfffff8007a6e0000, 788 kB, Smb 2.0 Server driver
+tcpipreg.sys, 0xfffff8007a7b0000, 80 kB, TCP/IP Registry Compatibility Driver
+tdevmonc.sys, 0xfffff8007a7d0000, 56 kB, Tibbo Device Monitor core driver
+rassstp.sys, 0xfffff8007a7e0000, 116 kB, RAS SSTP Miniport Call Manager
+NDProxy.sys, 0xfffff8007a800000, 260 kB, NDIS Proxy
+AgileVpn.sys, 0xfffff8007a850000, 156 kB, RAS Agile Vpn Miniport Call Manager
+rasl2tp.sys, 0xfffff8007a880000, 136 kB, RAS L2TP mini-port/call-manager driver
+raspptp.sys, 0xfffff8007a8b0000, 128 kB, Peer-to-Peer Tunneling Protocol
+raspppoe.sys, 0xfffff8007a8e0000, 112 kB, RAS PPPoE mini-port/call-manager driver
+ndistapi.sys, 0xfffff8007a900000, 60 kB, NDIS 3.0 connection wrapper driver
+ndiswan.sys, 0xfffff8007a910000, 232 kB, MS PPP Framing Driver (Strong Encryption)
+condrv.sys, 0xfffff8007a950000, 76 kB, Console Driver
+p9rdr.sys, 0xfffff8007a970000, 104 kB, Plan 9 redirector
+bindflt.sys, 0xfffff8007a990000, 132 kB, Windows Bind Filter Driver
+asyncmac.sys, 0xfffff8007ab20000, 56 kB, MS Remote Access serial network driver
+ssudbus.sys, 0xfffff8007ab30000, 128 kB, SAMSUNG USB Composite Device Driver
+WinUsb.sys, 0xfffff8007ab60000, 128 kB, Windows WinUSB Class Driver
+WUDFRd.sys, 0xfffff8007ab90000, 320 kB, Windows Driver Foundation - User-mode Driver Framework Reflector
+WpdUpFltr.sys, 0xfffff8007abf0000, 56 kB, Windows Portable Device Upper Class Filter Driver
+VMMR0.r0, 0xfffff8007ac00000, 1.59 MB, VirtualBox VMM - ring-0 context parts
+VBoxDDR0.r0, 0xfffff8007ada0000, 200 kB, VirtualBox VMM Devices and Drivers, ring-0
+Dbgv.sys, 0xfffff8007ade0000, 36 kB, Windows Debug Monitor
+GoodEye.sys, 0xfffff8007adf0000, 28 kB, 
+HTTP.sys, 0xfffff8007af20000, 1.27 MB, HTTP Protocol Stack
+mpsdrv.sys, 0xfffff8007b070000, 104 kB, Microsoft Protection Service Driver
+vwifimp.sys, 0xfffff8007b090000, 76 kB, Virtual WiFi Miniport Driver
+IntelHaxm.sys, 0xfffff8007b0b0000, 188 kB, HAXM_Driver
+srvnet.sys, 0xfffff8007b0e0000, 332 kB, Server Network driver
+Ndu.sys, 0xfffff8007b140000, 156 kB, Windows Network Data Usage Monitoring Driver
+npf.sys, 0xfffff8007b170000, 48 kB, npf.sys (NT5/6 AMD64) Kernel Driver
+hal.dll, 0xfffff8007bd5c000, 656 kB, Hardware Abstraction Layer DLL
+ntoskrnl.exe, 0xfffff8007be00000, 10.71 MB, NT Kernel & System
+kprocesshacker.sys, 0xfffff8007e420000, 44 kB, KProcessHacker
+kd.dll, 0xfffff8007f600000, 44 kB, Local Kernel Debugger
+mcupdate_GenuineIntel.dll, 0xfffff8007f610000, 2.3 MB, Intel Microcode Update Library
+werkernel.sys, 0xfffff8007f860000, 68 kB, Windows Error Reporting Kernel Driver
+ksecdd.sys, 0xfffff8007f880000, 168 kB, Kernel Security Support Provider Interface
+msrpc.sys, 0xfffff8007f8b0000, 384 kB, Kernel Remote Procedure Call Provider
+tm.sys, 0xfffff8007f920000, 156 kB, Kernel Transaction Manager Driver
+CLFS.SYS, 0xfffff8007f950000, 416 kB, Common Log File System Driver
+PSHED.dll, 0xfffff8007f9c0000, 104 kB, Platform Specific Hardware Error Driver
+BOOTVID.dll, 0xfffff8007f9e0000, 44 kB, VGA Boot Driver
+cmimcext.sys, 0xfffff8007f9f0000, 56 kB, Kernel Configuration Manager Initial Configuration Extension Host Export Driver
+clipsp.sys, 0xfffff8007fa00000, 1.02 MB, CLIP Service
+FLTMGR.SYS, 0xfffff8007fb10000, 452 kB, Microsoft Filesystem Filter Manager
+ntosext.sys, 0xfffff8007fb90000, 48 kB, NTOS extension host driver
+CI.dll, 0xfffff8007fba0000, 884 kB, Code Integrity Module
+cng.sys, 0xfffff8007fc80000, 752 kB, Kernel Cryptography, Next Generation
+Wdf01000.sys, 0xfffff8007fd40000, 852 kB, Kernel Mode Driver Framework Runtime
+WDFLDR.SYS, 0xfffff8007fe20000, 76 kB, Kernel Mode Driver Framework Loader
+SleepStudyHelper.sys, 0xfffff8007fe40000, 60 kB, Sleep Study Helper
+WppRecorder.sys, 0xfffff8007fe50000, 64 kB, WPP Trace Recorder
+acpiex.sys, 0xfffff8007fe70000, 148 kB, ACPIEx Driver
+mssecflt.sys, 0xfffff8007fea0000, 264 kB, Microsoft Security Events Component file system filter driver
+SgrmAgent.sys, 0xfffff8007fef0000, 104 kB, System Guard Runtime Monitor Agent Driver
+lxss.sys, 0xfffff8007ff10000, 40 kB, LXSS
+LXCORE.SYS, 0xfffff8007ff20000, 1.09 MB, LX Core
+ACPI.sys, 0xfffff80080040000, 816 kB, ACPI Driver for NT
+WMILIB.SYS, 0xfffff80080110000, 48 kB, WMILIB WMI support library Dll
+msisadrv.sys, 0xfffff80080120000, 44 kB, ISA Driver
+pci.sys, 0xfffff80080130000, 444 kB, NT Plug and Play PCI Enumerator
+tpm.sys, 0xfffff800801a0000, 256 kB, TPM Device Driver
+WindowsTrustedRTProxy.sys, 0xfffff800801f0000, 44 kB, Windows Trusted Runtime Service Proxy Driver
+intelpep.sys, 0xfffff80080220000, 364 kB, Intel Power Engine Plugin
+WindowsTrustedRT.sys, 0xfffff80080280000, 92 kB, Windows Trusted Runtime Interface Driver
+pcw.sys, 0xfffff800802a0000, 84 kB, Performance Counters for Windows Driver
+vdrvroot.sys, 0xfffff800802c0000, 76 kB, Virtual Drive Root Enumerator
+pdc.sys, 0xfffff800802e0000, 204 kB, Power Dependency Coordinator Driver
+CEA.sys, 0xfffff80080320000, 100 kB, Event Aggregation Kernel Mode Library
+partmgr.sys, 0xfffff80080340000, 192 kB, Partition driver
+spaceport.sys, 0xfffff80080380000, 660 kB, Storage Spaces Driver
+volmgr.sys, 0xfffff80080430000, 104 kB, Volume Manager Driver
+volmgrx.sys, 0xfffff80080450000, 396 kB, Volume Manager Extension Driver
+mountmgr.sys, 0xfffff800804c0000, 124 kB, Mount Point Manager
+iaStorA.sys, 0xfffff800804e0000, 5.46 MB, Intel(R) Rapid Storage Technology driver - x64
+storport.sys, 0xfffff80080a60000, 648 kB, Microsoft Storage Port Driver
+EhStorClass.sys, 0xfffff80080b10000, 108 kB, Enhanced Storage Class driver for IEEE 1667 devices
+fileinfo.sys, 0xfffff80080b30000, 104 kB, FileInfo Filter Driver
+pmdrvs.sys, 0xfffff80080b50000, 40 kB, Lenovo Power Management Driver
+Fs_Rec.sys, 0xfffff80080b60000, 52 kB, File System Recognizer Driver
+Wof.sys, 0xfffff80080b80000, 244 kB, Windows Overlay Filter
+WdFilter.sys, 0xfffff80080bc0000, 336 kB, Microsoft antimalware file system filter driver
+Ntfs.sys, 0xfffff80080c20000, 2.61 MB, NT File System Driver
+ndis.sys, 0xfffff80080ec0000, 1.45 MB, Network Driver Interface Specification (NDIS)
+NETIO.SYS, 0xfffff80081040000, 592 kB, Network I/O Subsystem
+ksecpkg.sys, 0xfffff800810e0000, 200 kB, Kernel Security Support Provider Interface Packages
+tcpip.sys, 0xfffff80081120000, 2.91 MB, TCP/IP Driver
+fwpkclnt.sys, 0xfffff80081410000, 488 kB, FWP/IPsec Kernel-Mode API
+wfplwfs.sys, 0xfffff80081490000, 192 kB, WFP NDIS 6.30 Lightweight Filter Driver
+VmsProxy.sys, 0xfffff800814d0000, 64 kB, VMSWITCH Proxy Driver
+vmbkmclr.sys, 0xfffff800814f0000, 128 kB, Hyper-V VMBus Root KMCL
+VmsProxyHNic.sys, 0xfffff80081520000, 60 kB, VmSwitch NIC Proxy Driver
+fvevol.sys, 0xfffff80081530000, 804 kB, BitLocker Drive Encryption Driver
+volume.sys, 0xfffff80081600000, 44 kB, Volume driver
+volsnap.sys, 0xfffff80081610000, 436 kB, Volume Shadow Copy driver
+rdyboost.sys, 0xfffff80081680000, 312 kB, ReadyBoost Driver
+mup.sys, 0xfffff800816d0000, 148 kB, Multiple UNC Provider Driver
+iorate.sys, 0xfffff80081700000, 72 kB, I/O rate control Filter
+IntelPcc.sys, 0xfffff80081720000, 88 kB, Intel Collaborative Processor Performance Control (CPPC) Driver
+disk.sys, 0xfffff80081760000, 112 kB, PnP Disk Driver
+CLASSPNP.SYS, 0xfffff80081780000, 428 kB, SCSI Class System Dll
+VBoxDrv.sys, 0xfffff80c57020000, 1.07 MB, VirtualBox Support Driver
+npsvctrig.sys, 0xfffff80c57140000, 52 kB, Named pipe service triggers
+mssmbios.sys, 0xfffff80c57150000, 64 kB, System Management BIOS Driver
+HWiNFO64A.SYS, 0xfffff80c57170000, 40 kB, HWiNFO AMD64 Kernel Driver
+gpuenergydrv.sys, 0xfffff80c57180000, 40 kB, GPU Energy Kernel Driver
+dfsc.sys, 0xfffff80c57190000, 176 kB, DFS Namespace Client Driver
+umbus.sys, 0xfffff80c571c0000, 84 kB, User-Mode Bus Enumerator
+bam.sys, 0xfffff80c571e0000, 88 kB, BAM Kernel Driver
+ahcache.sys, 0xfffff80c57200000, 316 kB, Application Compatibility Cache
+tap0901.sys, 0xfffff80c57250000, 48 kB, TAP-Windows Virtual Network Driver (NDIS 6.0)
+VBoxNetAdp6.sys, 0xfffff80c57260000, 328 kB, VirtualBox NDIS 6.0 Host-Only Network Adapter Driver
+tapprotonvpn.sys, 0xfffff80c572c0000, 48 kB, TAP-Windows Virtual Network Driver (NDIS 6.0)
+Vid.sys, 0xfffff80c572d0000, 560 kB, Microsoft Hyper-V Virtualization Infrastructure Driver
+winhvr.sys, 0xfffff80c57360000, 124 kB, Windows Hypervisor Root Interface Driver
+CompositeBus.sys, 0xfffff80c57380000, 68 kB, Multi-Transport Composite Bus Enumerator
+kdnic.sys, 0xfffff80c573a0000, 52 kB, Microsoft Kernel Debugger Network Miniport
+crashdmp.sys, 0xfffff80c573e0000, 116 kB, Crash Dump Driver
+dump_iaStorA.sys, 0xfffff80c57a00000, 5.46 MB, 
+cdrom.sys, 0xfffff80c57fc0000, 192 kB, SCSI CD-ROM Driver
+filecrypt.sys, 0xfffff80c58000000, 84 kB, Windows sandboxing and encryption filter
+tbs.sys, 0xfffff80c58020000, 56 kB, Export driver for kernel mode TPM API
+Null.SYS, 0xfffff80c58030000, 40 kB, NULL Driver
+Beep.SYS, 0xfffff80c58040000, 40 kB, BEEP Driver
+dxgkrnl.sys, 0xfffff80c58050000, 3.44 MB, DirectX Graphics Kernel
+watchdog.sys, 0xfffff80c583d0000, 88 kB, Watchdog Driver
+BasicDisplay.sys, 0xfffff80c583f0000, 88 kB, Microsoft Basic Display Driver
+BasicRender.sys, 0xfffff80c58410000, 68 kB, Microsoft Basic Render Driver
+Npfs.SYS, 0xfffff80c58430000, 112 kB, NPFS Driver
+Msfs.SYS, 0xfffff80c58450000, 68 kB, Mailslot driver
+tdx.sys, 0xfffff80c58470000, 152 kB, TDI Translation Driver
+TDI.SYS, 0xfffff80c584a0000, 64 kB, TDI Wrapper
+netbt.sys, 0xfffff80c584c0000, 356 kB, MBT Transport driver
+afunix.sys, 0xfffff80c58520000, 76 kB, AF_UNIX socket provider
+afd.sys, 0xfffff80c58540000, 668 kB, Ancillary Function Driver for WinSock
+npcap.sys, 0xfffff80c585f0000, 76 kB, npcap.sys (NT6 AMD64) Kernel Filter Driver
+VBoxNetLwf.sys, 0xfffff80c58610000, 344 kB, VirtualBox NDIS 6.0 Lightweight Filter Driver
+vwififlt.sys, 0xfffff80c58670000, 104 kB, Virtual WiFi Filter Driver
+pacer.sys, 0xfffff80c58690000, 172 kB, QoS Packet Scheduler
+netbios.sys, 0xfffff80c586c0000, 80 kB, NetBIOS interface driver
+smi.sys, 0xfffff80c586e0000, 40 kB, SSO SMI Kernel Mode Driver
+rdbss.sys, 0xfffff80c586f0000, 492 kB, Redirected Drive Buffering SubSystem Driver
+nsiproxy.sys, 0xfffff80c58770000, 72 kB, NSI Proxy
+csc.sys, 0xfffff80c58d10000, 592 kB, Windows Client Side Caching Driver
+VBoxUSBMon.sys, 0xfffff80c58db0000, 220 kB, VirtualBox USB Monitor Driver
+Tppwr64v.sys, 0xfffff80c58df0000, 36 kB, Power Manager
+igdkmd64.sys, 0xfffff80c58e00000, 7.77 MB, Intel Graphics Kernel Mode Driver
+USBXHCI.SYS, 0xfffff80c595d0000, 548 kB, USB XHCI Driver
+TeeDriverW8x64.sys, 0xfffff80c59660000, 208 kB, Intel(R) Management Engine Interface
+e1d68x64.sys, 0xfffff80c596a0000, 596 kB, Intel(R) Gigabit Adapter NDIS 6.x driver
+usbehci.sys, 0xfffff80c59740000, 116 kB, EHCI eUSB Miniport Driver
+USBPORT.SYS, 0xfffff80c59760000, 488 kB, USB 1.1 & 2.0 Port Driver
+RtsPer.sys, 0xfffff80c597e0000, 880 kB, RTS PCIE READER Driver
+nwifi.sys, 0xfffff80c598c0000, 712 kB, NativeWiFi Miniport Driver
+CAD.sys, 0xfffff80c59a90000, 84 kB, Charge Arbiration Driver
+intelppm.sys, 0xfffff80c59ab0000, 248 kB, Processor Device Driver
+USBD.SYS, 0xfffff80c59c00000, 56 kB, Universal Serial Bus Driver
+HIDPARSE.SYS, 0xfffff80c59c10000, 76 kB, Hid Parsing Library
+kbdclass.sys, 0xfffff80c59c30000, 80 kB, Keyboard Class Driver
+mouclass.sys, 0xfffff80c59c50000, 76 kB, Mouse Class Driver
+CmBatt.sys, 0xfffff80c59c70000, 60 kB, Control Method Battery Driver
+BATTC.SYS, 0xfffff80c59c80000, 64 kB, Battery Class Driver
+ibmpmdrv.sys, 0xfffff80c59ca0000, 84 kB, Lenovo Power Management Driver
+Smb_driver_Intel.sys, 0xfffff80c59cc0000, 60 kB, Synaptics SMBus Driver
+wmiacpi.sys, 0xfffff80c59cd0000, 48 kB, Windows Management Interface for ACPI
+NdisVirtualBus.sys, 0xfffff80c59ce0000, 52 kB, Microsoft Virtual Network Adapter Enumerator
+swenum.sys, 0xfffff80c59cf0000, 48 kB, Plug and Play Software Device Enumerator
+rdpbus.sys, 0xfffff80c59d00000, 56 kB, Microsoft RDP Bus Device driver
+usbhub.sys, 0xfffff80c59d10000, 552 kB, Default Hub Driver for USB
+ksthunk.sys, 0xfffff80c59e20000, 60 kB, Kernel Streaming WOW Thunk Service
+UsbHub3.sys, 0xfffff80c59e30000, 640 kB, USB3 HUB Driver
+vmswitch.sys, 0xfffff80c59ee0000, 2.35 MB, Microsoft® Network Virtualization Service Provider
+Netwbw02.sys, 0xfffff80c5a170000, 3.55 MB, Intel® Wireless WiFi Link Driver
+vwifibus.sys, 0xfffff80c5a500000, 56 kB, Virtual Wireless Bus Driver
+i8042prt.sys, 0xfffff80c5a510000, 140 kB, i8042 Port Driver
+SynTP.sys, 0xfffff80c5a540000, 716 kB, Synaptics Touchpad Win64 Driver
+ks.sys, 0xfffff80c5b200000, 480 kB, Kernel CSA Library
+ucx01000.sys, 0xfffff80c5b280000, 260 kB, USB Controller Extension
+nvlddmkm.sys, 0xfffff80c5b2e0000, 20.21 MB, NVIDIA Windows Kernel Mode Driver, Version 425.91 
+HDAudBus.sys, 0xfffff80c5c720000, 136 kB, High Definition Audio Bus Driver
+portcls.sys, 0xfffff80c5c750000, 412 kB, Port Class (Class Driver for Port/Miniport Devices)
+drmk.sys, 0xfffff80c5c7c0000, 132 kB, Microsoft Trusted Audio Drivers
+BTHUSB.sys, 0xfffff80c5c800000, 124 kB, Bluetooth Miniport Driver
+bthport.sys, 0xfffff80c5c820000, 1.39 MB, Bluetooth Bus Driver
+hidusb.sys, 0xfffff80c5c990000, 72 kB, USB Miniport Driver for Input Devices
+HIDCLASS.SYS, 0xfffff80c5c9b0000, 236 kB, Hid Class Library
+mouhid.sys, 0xfffff80c5c9f0000, 64 kB, HID Mouse Filter Driver
+Microsoft.Bluetooth.Legacy.LEEnumerator.sys, 0xfffff80c5ca10000, 120 kB, Legacy Bluetooth LE Bus Enumerator
+rfcomm.sys, 0xfffff80c5ca30000, 232 kB, Bluetooth RFCOMM Driver
+BthEnum.sys, 0xfffff80c5ca70000, 136 kB, Bluetooth Bus Extender
+bthpan.sys, 0xfffff80c5caa0000, 152 kB, Bluetooth Personal Area Networking
+usbvideo.sys, 0xfffff80c5cae0000, 316 kB, USB Video Class Driver
+tsusbhub.sys, 0xfffff80c5cb30000, 156 kB, Remote Desktop USB Hub
+bowser.sys, 0xfffff80c5cb60000, 148 kB, NT Lan Manager Datagram Receiver Driver
+winquic.sys, 0xfffff80c5cb90000, 224 kB, Windows QUIC Driver
+mrxsmb.sys, 0xfffff80c5cbd0000, 572 kB, Windows NT SMB Minirdr
+mrxsmb20.sys, 0xfffff80c5cc80000, 276 kB, Longhorn SMB 2.0 Redirector
+lltdio.sys, 0xfffff80c5ccd0000, 96 kB, Link-Layer Topology Mapper I/O Driver
+mslldp.sys, 0xfffff80c5ccf0000, 100 kB, Microsoft Link-Layer Discovery Protocol Driver
+rspndr.sys, 0xfffff80c5cd10000, 108 kB, Link-Layer Topology Responder Driver for NDIS 6
+wanarp.sys, 0xfffff80c5cd30000, 116 kB, MS Remote Access and Routing ARP Driver
+ndisuio.sys, 0xfffff80c5cd50000, 96 kB, NDIS User mode I/O driver
+dump_diskdump.sys, 0xfffff80c5cdf0000, 56 kB, 
+dump_dumpfve.sys, 0xfffff80c5ce20000, 116 kB, 
+dxgmms2.sys, 0xfffff80c5ce40000, 872 kB, DirectX Graphics MMS
+monitor.sys, 0xfffff80c5cf20000, 96 kB, Monitor Driver
+rdpvideominiport.sys, 0xfffff80c5cf40000, 52 kB, Microsoft RDP Video Miniport driver
+wcifs.sys, 0xfffff80c5cf80000, 220 kB, Windows Container Isolation FS Filter Driver
+cldflt.sys, 0xfffff80c5cfc0000, 476 kB, Cloud Files Mini Filter Driver
+storqosflt.sys, 0xfffff80c5d040000, 104 kB, Storage QoS Filter
+mmcss.sys, 0xfffff80c5d060000, 80 kB, MMCSS Driver
+rdpdr.sys, 0xfffff80c5d080000, 188 kB, Microsoft RDP Device redirector
+RTKVHD64.sys, 0xfffff80c5d0b0000, 6.77 MB, Realtek(r) High Definition Audio Function Driver
+usbccgp.sys, 0xfffff80c5d780000, 204 kB, USB Common Class Generic Parent Driver
+ibtusb.sys, 0xfffff80c5d7c0000, 236 kB, Intel(R) Wireless Bluetooth(R) Filter Driver
+

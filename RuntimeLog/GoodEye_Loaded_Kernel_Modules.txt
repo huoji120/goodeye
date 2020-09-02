@@ -1,0 +1,190 @@
+//
+// windows 10 2004
+//
+
+
+ntoskrnl.exe, 0xfffff8047ec00000, 16.27 MB, NT Kernel & System
+ACPI.sys, 0xfffff80482370000, 816 kB, ACPI Driver for NT
+acpiex.sys, 0xfffff804822d0000, 152 kB, ACPIEx Driver
+afd.sys, 0xfffff80499400000, 652 kB, Ancillary Function Driver for WinSock
+afunix.sys, 0xfffff80499dc0000, 76 kB, AF_UNIX socket provider
+AgileVpn.sys, 0xfffff804dccd0000, 156 kB, RAS Agile Vpn Miniport Call Manager
+ahcache.sys, 0xfffff804998e0000, 312 kB, Application Compatibility Cache
+bam.sys, 0xfffff804998c0000, 92 kB, BAM Kernel Driver
+BasicDisplay.sys, 0xfffff804992e0000, 88 kB, Microsoft Basic Display Driver
+BasicRender.sys, 0xfffff80499300000, 68 kB, Microsoft Basic Render Driver
+Beep.SYS, 0xfffff80498f00000, 40 kB, BEEP Driver
+bindflt.sys, 0xfffff80499c10000, 156 kB, Windows Bind Filter Driver
+BOOTVID.dll, 0xfffff8047c7c0000, 44 kB, VGA Boot Driver
+bowser.sys, 0xfffff80499b20000, 148 kB, NT Lan Manager Datagram Receiver Driver
+cdd.dll, 0xffff809651cb0000, 288 kB, Canonical Display Driver
+cdrom.sys, 0xfffff80498e80000, 192 kB, SCSI CD-ROM Driver
+CEA.sys, 0xfffff80482630000, 100 kB, Event Aggregation Kernel Mode Library
+CI.dll, 0xfffff80481ff0000, 900 kB, Code Integrity Module
+CimFS.SYS, 0xfffff80499ce0000, 108 kB, 
+CLASSPNP.SYS, 0xfffff80483530000, 432 kB, SCSI Class System Dll
+cldflt.sys, 0xfffff80499b90000, 508 kB, Cloud Files Mini Filter Driver
+CLFS.SYS, 0xfffff8047c730000, 420 kB, Common Log File System Driver
+clipsp.sys, 0xfffff80481e00000, 1.07 MB, CLIP Service
+cmimcext.sys, 0xfffff8047c840000, 56 kB, Kernel Configuration Manager Initial Configuration Extension Host Export Driver
+cng.sys, 0xfffff804820e0000, 732 kB, Kernel Cryptography, Next Generation
+CompositeBus.sys, 0xfffff80499960000, 72 kB, Multi-Transport Composite Bus Enumerator
+condrv.sys, 0xfffff804dcdd0000, 76 kB, Console Driver
+crashdmp.sys, 0xfffff80499350000, 120 kB, Crash Dump Driver
+csc.sys, 0xfffff804996a0000, 592 kB, Windows Client Side Caching Driver
+Dbgv.sys, 0xfffff804dcf90000, 36 kB, Windows Debug Monitor
+dfsc.sys, 0xfffff80499800000, 176 kB, DFS Namespace Client Driver
+disk.sys, 0xfffff80483510000, 112 kB, PnP Disk Driver
+drmk.sys, 0xfffff8049b470000, 132 kB, Microsoft Trusted Audio Drivers
+dump_diskdump.sys, 0xfffff8049bf10000, 56 kB, 
+dump_dumpfve.sys, 0xfffff8049bfc0000, 116 kB, 
+dump_storahci.sys, 0xfffff8049bf60000, 200 kB, 
+dxgkrnl.sys, 0xfffff80498f10000, 3.64 MB, DirectX Graphics Kernel
+dxgmms1.sys, 0xfffff804999b0000, 460 kB, DirectX Graphics MMS
+dxgmms2.sys, 0xfffff80499a30000, 904 kB, DirectX Graphics MMS
+EhStorClass.sys, 0xfffff80482930000, 112 kB, Enhanced Storage Class driver for IEEE 1667 devices
+fastfat.SYS, 0xfffff80499850000, 432 kB, Fast FAT File System Driver
+filecrypt.sys, 0xfffff80498ec0000, 84 kB, Windows sandboxing and encryption filter
+fileinfo.sys, 0xfffff80482950000, 104 kB, FileInfo Filter Driver
+FLTMGR.SYS, 0xfffff8047c7d0000, 444 kB, Microsoft Filesystem Filter Manager
+Fs_Rec.sys, 0xfffff804825f0000, 52 kB, File System Recognizer Driver
+fvevol.sys, 0xfffff80483300000, 804 kB, BitLocker Drive Encryption Driver
+fwpkclnt.sys, 0xfffff80483240000, 508 kB, FWP/IPsec Kernel-Mode API
+GoodEye.sys, 0xfffff804dcfb0000, 40 kB, 
+gpuenergydrv.sys, 0xfffff804997f0000, 40 kB, GPU Energy Kernel Driver
+hal.dll, 0xfffff8047c6e0000, 24 kB, Hardware Abstraction Layer DLL
+hcmon.sys, 0xfffff804dc9e0000, 88 kB, VMware USB monitor
+HDAudBus.sys, 0xfffff8049d5b0000, 148 kB, High Definition Audio Bus Driver
+HdAudio.sys, 0xfffff8049bd50000, 444 kB, High Definition Audio Function Driver
+HIDCLASS.SYS, 0xfffff8049be20000, 252 kB, Hid Class Library
+HIDPARSE.SYS, 0xfffff8049be60000, 76 kB, Hid Parsing Library
+hidusb.sys, 0xfffff8049be00000, 72 kB, USB Miniport Driver for Input Devices
+HTTP.sys, 0xfffff804dc800000, 1.52 MB, HTTP Protocol Stack
+igdkmd64.sys, 0xfffff8049b520000, 5.12 MB, Intel Graphics Kernel Mode Driver
+intelpep.sys, 0xfffff80482470000, 404 kB, Intel Power Engine Plugin
+intelppm.sys, 0xfffff8049bbd0000, 256 kB, Processor Device Driver
+IntelTA.sys, 0xfffff80482500000, 44 kB, Intel Telemetry Driver
+iorate.sys, 0xfffff804834e0000, 72 kB, I/O rate control Filter
+kbdclass.sys, 0xfffff8049bee0000, 80 kB, Keyboard Class Driver
+kbdhid.sys, 0xfffff8049bec0000, 68 kB, HID Keyboard Filter Driver
+kd.dll, 0xfffff8047c6f0000, 44 kB, Local Kernel Debugger
+kdnic.sys, 0xfffff80499980000, 52 kB, Microsoft Kernel Debugger Network Miniport
+kprocesshacker.sys, 0xfffff804dcfc0000, 44 kB, KProcessHacker
+ks.sys, 0xfffff8049b4a0000, 472 kB, Kernel CSA Library
+ksecdd.sys, 0xfffff80481f20000, 172 kB, Kernel Security Support Provider Interface
+ksecpkg.sys, 0xfffff80482f10000, 200 kB, Kernel Security Support Provider Interface Packages
+ksthunk.sys, 0xfffff8049bd40000, 60 kB, Kernel Streaming WOW Thunk Service
+lltdio.sys, 0xfffff804dcf20000, 96 kB, Link-Layer Topology Mapper I/O Driver
+mcupdate_GenuineIntel.dll, 0xfffff8047c450000, 2.56 MB, Intel Microcode Update Library
+MEmuDrv.sys, 0xfffff80499790000, 360 kB, MemuHyperv Support Driver
+mmcss.sys, 0xfffff804dca90000, 80 kB, MMCSS Driver
+monitor.sys, 0xfffff8049bfe0000, 108 kB, Monitor Driver
+mouclass.sys, 0xfffff8049bea0000, 76 kB, Mouse Class Driver
+mouhid.sys, 0xfffff8049be80000, 64 kB, HID Mouse Filter Driver
+mountmgr.sys, 0xfffff80482810000, 120 kB, Mount Point Manager
+mpsdrv.sys, 0xfffff804dc990000, 104 kB, Microsoft Protection Service Driver
+mrxsmb.sys, 0xfffff804dcdf0000, 588 kB, Windows NT SMB Minirdr
+mrxsmb20.sys, 0xfffff804dce90000, 276 kB, Longhorn SMB 2.0 Redirector
+Msfs.SYS, 0xfffff80499cc0000, 68 kB, Mailslot driver
+msisadrv.sys, 0xfffff80482540000, 44 kB, ISA Driver
+mslldp.sys, 0xfffff804dcee0000, 96 kB, Microsoft Link-Layer Discovery Protocol Driver
+msquic.sys, 0xfffff80498e00000, 344 kB, Windows QUIC Driver
+msrpc.sys, 0xfffff80481f50000, 392 kB, Kernel Remote Procedure Call Provider
+mssecflt.sys, 0xfffff80482300000, 276 kB, Microsoft Security Events Component file system filter driver
+mssmbios.sys, 0xfffff80499770000, 64 kB, System Management BIOS Driver
+mup.sys, 0xfffff804834b0000, 152 kB, Multiple UNC Provider Driver
+ndis.sys, 0xfffff80482d00000, 1.43 MB, Network Driver Interface Specification (NDIS)
+ndiscap.sys, 0xfffff80499500000, 80 kB, Microsoft NDIS Packet Capture Filter Driver
+ndistapi.sys, 0xfffff804dcd80000, 60 kB, NDIS 3.0 connection wrapper driver
+NdisVirtualBus.sys, 0xfffff8049bc30000, 52 kB, Microsoft Virtual Network Adapter Enumerator
+ndiswan.sys, 0xfffff804dcd90000, 232 kB, MS PPP Framing Driver (Strong Encryption)
+NDProxy.sys, 0xfffff804dccb0000, 116 kB, NDIS Proxy
+Ndu.sys, 0xfffff804dca60000, 156 kB, Windows Network Data Usage Monitoring Driver
+netbios.sys, 0xfffff80499520000, 80 kB, NetBIOS interface driver
+netbt.sys, 0xfffff80499d60000, 368 kB, MBT Transport driver
+NETIO.SYS, 0xfffff80482e70000, 608 kB, Network I/O Subsystem
+Npfs.SYS, 0xfffff804993d0000, 112 kB, NPFS Driver
+npsvctrig.sys, 0xfffff80499760000, 56 kB, Named pipe service triggers
+nsiproxy.sys, 0xfffff80499740000, 72 kB, NSI Proxy
+Ntfs.sys, 0xfffff80482a20000, 2.85 MB, NT File System Driver
+ntosext.sys, 0xfffff80481fe0000, 48 kB, NTOS extension host driver
+Null.SYS, 0xfffff80498ef0000, 40 kB, NULL Driver
+nvhda64v.sys, 0xfffff8049bd00000, 220 kB, NVIDIA HDMI Audio Driver
+nvlddmkm.sys, 0xfffff8049c030000, 21.46 MB, NVIDIA Windows Kernel Mode Driver, Version 432.00 
+pacer.sys, 0xfffff804994d0000, 172 kB, QoS Packet Scheduler
+partmgr.sys, 0xfffff80482650000, 196 kB, Partition driver
+pci.sys, 0xfffff80482550000, 472 kB, NT Plug and Play PCI Enumerator
+pcw.sys, 0xfffff80482520000, 80 kB, Performance Counters for Windows Driver
+pdc.sys, 0xfffff80482600000, 188 kB, Power Dependency Coordinator Driver
+peauth.sys, 0xfffff804dcab0000, 856 kB, Protected Environment Authentication and Authorization Export Driver
+portcls.sys, 0xfffff8049b400000, 408 kB, Port Class (Class Driver for Port/Miniport Devices)
+PSHED.dll, 0xfffff8047c7a0000, 104 kB, Platform Specific Hardware Error Driver
+rasl2tp.sys, 0xfffff804dcd00000, 132 kB, RAS L2TP mini-port/call-manager driver
+raspppoe.sys, 0xfffff804dcd60000, 112 kB, RAS PPPoE mini-port/call-manager driver
+raspptp.sys, 0xfffff804dcd30000, 132 kB, Peer-to-Peer Tunneling Protocol
+rassstp.sys, 0xfffff804dcc90000, 112 kB, RAS SSTP Miniport Call Manager
+rdbss.sys, 0xfffff80499620000, 492 kB, Redirected Drive Buffering SubSystem Driver
+rdpbus.sys, 0xfffff8049bc50000, 56 kB, Microsoft RDP Bus Device driver
+rdpdr.sys, 0xfffff80499c40000, 188 kB, Microsoft RDP Device redirector
+rdpvideominiport.sys, 0xfffff8049c000000, 52 kB, Microsoft RDP Video Miniport driver
+rdyboost.sys, 0xfffff80483450000, 320 kB, ReadyBoost Driver
+rspndr.sys, 0xfffff804dcf40000, 108 kB, Link-Layer Topology Responder Driver for NDIS 6
+rt640x64.sys, 0xfffff8049bb20000, 692 kB, Realtek 8125/8136/8168/8169 NDIS 6.40 64-bit Driver                                        
+SgrmAgent.sys, 0xfffff80482350000, 104 kB, System Guard Runtime Monitor Agent Driver
+SleepStudyHelper.sys, 0xfffff804822a0000, 60 kB, Sleep Study Helper
+spaceport.sys, 0xfffff80482690000, 684 kB, Storage Spaces Driver
+srv2.sys, 0xfffff804dcbc0000, 796 kB, Smb 2.0 Server driver
+srvnet.sys, 0xfffff804dca00000, 328 kB, Server Network driver
+storahci.sys, 0xfffff80482830000, 200 kB, MS AHCI Storport Miniport Driver
+storport.sys, 0xfffff80482870000, 704 kB, Microsoft Storage Port Driver
+storqosflt.sys, 0xfffff8049c010000, 104 kB, Storage QoS Filter
+swenum.sys, 0xfffff8049bc40000, 48 kB, Plug and Play Software Device Enumerator
+tapprotonvpn.sys, 0xfffff80499930000, 48 kB, TAP-Windows Virtual Network Driver (NDIS 6.0)
+tbs.sys, 0xfffff80498ee0000, 56 kB, Export driver for kernel mode TPM API
+tcpip.sys, 0xfffff80482f50000, 2.92 MB, TCP/IP Driver
+tcpipreg.sys, 0xfffff804dcb90000, 84 kB, TCP/IP Registry Compatibility Driver
+TDI.SYS, 0xfffff80499d30000, 64 kB, TDI Wrapper
+tdx.sys, 0xfffff80499d00000, 136 kB, TDI Translation Driver
+TeeDriverW8x64.sys, 0xfffff8049ba40000, 192 kB, Intel(R) Management Engine Interface
+tm.sys, 0xfffff8047c700000, 156 kB, Kernel Transaction Manager Driver
+tsusbhub.sys, 0xfffff80499c70000, 156 kB, Remote Desktop USB Hub
+umbus.sys, 0xfffff80499990000, 84 kB, User-Mode Bus Enumerator
+usbccgp.sys, 0xfffff8049bdc0000, 208 kB, USB Common Class Generic Parent Driver
+USBD.SYS, 0xfffff8049bcf0000, 56 kB, Universal Serial Bus Driver
+usbehci.sys, 0xfffff8049ba80000, 104 kB, EHCI eUSB Miniport Driver
+usbhub.sys, 0xfffff8049bc60000, 532 kB, Default Hub Driver for USB
+USBPORT.SYS, 0xfffff8049baa0000, 484 kB, USB 1.1 & 2.0 Port Driver
+vdrvroot.sys, 0xfffff804825d0000, 84 kB, Virtual Drive Root Enumerator
+Vid.sys, 0xfffff80499540000, 644 kB, Microsoft Hyper-V Virtualization Infrastructure Driver
+vmci.sys, 0xfffff804827f0000, 112 kB, VMware PCI VMCI Bus Device
+VMNET.SYS, 0xfffff80499950000, 48 kB, VMware virtual network driver (64-bit)
+vmnetadapter.sys, 0xfffff80499940000, 44 kB, VMware virtual network adapter driver (64-bit)
+vmnetbridge.sys, 0xfffff804dcf00000, 72 kB, VMware bridge driver (64-bit)
+vmnetuserif.sys, 0xfffff804dcf60000, 44 kB, VMware network application interface driver (64-bit)
+vmx86.sys, 0xfffff804dc9b0000, 128 kB, VMware kernel driver
+volmgr.sys, 0xfffff80482740000, 100 kB, Volume Manager Driver
+volmgrx.sys, 0xfffff80482760000, 396 kB, Volume Manager Extension Driver
+volsnap.sys, 0xfffff804833e0000, 436 kB, Volume Shadow Copy driver
+volume.sys, 0xfffff804833d0000, 44 kB, Volume driver
+vsock.sys, 0xfffff804827d0000, 96 kB, VMware vSockets Service
+vstor2-x64.sys, 0xfffff804dcbb0000, 48 kB, VMware Virtual Storage Volume Driver
+vwififlt.sys, 0xfffff804994b0000, 104 kB, Virtual WiFi Filter Driver
+wanarp.sys, 0xfffff804dcf70000, 116 kB, MS Remote Access and Routing ARP Driver
+watchdog.sys, 0xfffff804992c0000, 96 kB, Watchdog Driver
+wcifs.sys, 0xfffff80499b50000, 216 kB, Windows Container Isolation FS Filter Driver
+Wdf01000.sys, 0xfffff804821a0000, 836 kB, Kernel Mode Driver Framework Runtime
+WdFilter.sys, 0xfffff804829c0000, 360 kB, Microsoft antimalware file system filter driver
+WDFLDR.SYS, 0xfffff80482280000, 76 kB, Kernel Mode Driver Framework Loader
+werkernel.sys, 0xfffff80481fc0000, 68 kB, Windows Error Reporting Kernel Driver
+wfplwfs.sys, 0xfffff804832c0000, 192 kB, WFP NDIS 6.30 Lightweight Filter Driver
+win32k.sys, 0xffff809652540000, 616 kB, Multi-User Win32 Driver
+win32kbase.sys, 0xffff809651600000, 2.89 MB, Base Win32k Kernel Driver
+win32kfull.sys, 0xffff8096518f0000, 3.71 MB, Full/Desktop Win32k Kernel Driver
+WindowsTrustedRT.sys, 0xfffff804824e0000, 92 kB, Windows Trusted Runtime Interface Driver
+WindowsTrustedRTProxy.sys, 0xfffff80482510000, 44 kB, Windows Trusted Runtime Service Proxy Driver
+winhvr.sys, 0xfffff804995f0000, 132 kB, Windows Hypervisor Root Interface Driver
+wmiacpi.sys, 0xfffff8049bc20000, 48 kB, Windows Management Interface for ACPI
+WMILIB.SYS, 0xfffff80482440000, 48 kB, WMILIB WMI support library Dll
+Wof.sys, 0xfffff80482970000, 256 kB, Windows Overlay Filter
+WppRecorder.sys, 0xfffff804822b0000, 68 kB, WPP Trace Recorder
+ws2ifsl.sys, 0xfffff80499d50000, 56 kB, Winsock2 IFS Layer
